@@ -1,0 +1,13 @@
+
+.demoDiv {
+    border: 5px outset red;
+    background-color: #ED30CF;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    display: flex;
+    position: relative;
+  }
+  svg{
+    background-color: #ED30CF;
+  }
