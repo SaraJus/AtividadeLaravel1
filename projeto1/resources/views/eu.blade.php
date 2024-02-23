@@ -38,9 +38,9 @@
 </head>
 <body>
 <nav>
-    <img src="{{ asset('nav.webp') }}" alt="bolinhas" class="imgnav">
+    <img src="{{ asset('fundo.webp') }}" alt="bolinhas" class="imgnav">
 </nav>
-  <!-- aiaiai -->  
+    
 <svg width="800px" height="800px">
 <text x="270" y="270" font-family="Times New Roman" font-size="40" fill="black">Olá, meu nome é Sara</text>
 <circle cx="270" cy="270" r="20" fill="black"  stroke-width="1" fill-opacity="0.4"></circle>
